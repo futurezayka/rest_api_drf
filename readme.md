@@ -1,3 +1,10 @@
+##### git clone https://github.com/futurezayka/rest_api_drf.git
+##### cd rest_api_drf
+##### python manage.py makemigrations
+##### python manage.py migrate
+##### python manage.py runserver
+
+
 # **Endpoints**
 
 ### **Teams**
