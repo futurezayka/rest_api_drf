@@ -1,5 +1,6 @@
 ##### git clone https://github.com/futurezayka/rest_api_drf.git
 ##### cd rest_api_drf
+##### pip install requirements.txt
 ##### python manage.py makemigrations
 ##### python manage.py migrate
 ##### python manage.py runserver
